@@ -1,0 +1,17 @@
+.small-posts-container {
+    padding: 0px 20px 20px;
+    border-bottom:rgba(162, 40, 40, 0.611) 2px solid;
+}
+.small-post-title {
+    color: rgb(54, 92, 32);
+    font-size: 1.3rem;
+    text-align: center;
+    padding-bottom: 20px;
+    
+}
+.small-post-body {
+    color: rgb(18, 95, 129);
+    font-size: 1.1rem;
+    text-align: center;
+
+}
